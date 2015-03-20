@@ -13,6 +13,12 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+using System.Reflection;
+using System.IO;
+using System.Data.OleDb;
+using Excel = Microsoft.Office.Interop.Excel;
+
+
 namespace SWE_DAASP_Project
 {
     /// <summary>
@@ -23,6 +29,8 @@ namespace SWE_DAASP_Project
         public MainWindow()
         {
             InitializeComponent();
+                  
         }
+               
     }
 }
