@@ -24,5 +24,10 @@ namespace SWE_DAASP_Project
         {
             InitializeComponent();
         }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
