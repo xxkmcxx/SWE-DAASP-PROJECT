@@ -24,5 +24,10 @@ namespace SWE_DAASP_Project
         {
             InitializeComponent();
         }
+
+        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
