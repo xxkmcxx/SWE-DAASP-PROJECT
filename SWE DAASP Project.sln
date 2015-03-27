@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE DAASP Project", "SWE DAASP Project\SWE DAASP Project.csproj", "{CCE55310-4087-4203-989B-7C0E85C7E1CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watcher", "Watcher\Watcher.csproj", "{2E49FA69-3CB1-4175-A927-465B7EFE9EBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CCE55310-4087-4203-989B-7C0E85C7E1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCE55310-4087-4203-989B-7C0E85C7E1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCE55310-4087-4203-989B-7C0E85C7E1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E49FA69-3CB1-4175-A927-465B7EFE9EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E49FA69-3CB1-4175-A927-465B7EFE9EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E49FA69-3CB1-4175-A927-465B7EFE9EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E49FA69-3CB1-4175-A927-465B7EFE9EBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
